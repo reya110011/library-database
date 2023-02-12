@@ -1,4 +1,4 @@
-# local library
+# local library database system
 
 ### problem statement
 > A local library wants to keep track of the books they have in their collection.
